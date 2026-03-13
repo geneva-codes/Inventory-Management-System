@@ -36,10 +36,13 @@ Designed as a portfolio project to demonstrate core programming and system desig
 ## System Architecture
 
 User
+
 ↓
 Console Interface
+
 ↓
 Inventory Logic
+
 ↓
 File Storage
 
@@ -71,7 +74,7 @@ Example:
 
 Each sale record contains:
 
-ProductName Quantity TotalPrice
+ProductName  Quantity  TotalPrice
 
 Example:
 
@@ -116,10 +119,15 @@ Password: 1234
 This project demonstrates:
 
 • Struct-based data modeling
+
 • Array storage in memory
+
 • File persistence using text files
+
 • Inventory management logic
+
 • Menu-driven program design
+
 • Basic authentication system
 
 ---
@@ -127,15 +135,25 @@ This project demonstrates:
 ## Project Structure
 
 Inventory-Management-System
+
 │
+
 ├ main.cpp
+
 ├ products.txt
+
 ├ sales.txt
+
 ├ README.md
+
 │
+
 └ docs
+
 ├ login.png
+
 ├ menu.png
+
 └ inventory.png
 
 ---
@@ -151,5 +169,7 @@ It simulates a simplified Point-of-Sale (POS) inventory backend.
 ## Author
 
 **Geneva Bagona**
+
 Aspiring Software Developer
+
 Philippines 🇵🇭
