@@ -24,12 +24,12 @@ Designed as a portfolio project to demonstrate core programming and system desig
 
 ## Technologies Used
 
-• C++ Programming Language
-• Struct Data Structures
-• Arrays
-• File Handling (fstream)
-• Console UI
-• Basic Authentication Logic
+- C++ Programming Language
+- Struct Data Structures
+- Arrays
+- File Handling (fstream)
+- Console UI
+- Basic Authentication Logic
 
 ---
 
