@@ -61,7 +61,7 @@ sales.txt — stores sales transactions
 
 Each product is stored in this format:
 
-ID Name Stock Price
+ID Name  Stock  Price
 
 Example:
 
