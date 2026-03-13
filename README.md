@@ -36,11 +36,17 @@ Designed as a portfolio project to demonstrate core programming and system desig
 ## System Architecture
 
 User
+
 ↓
+
 Console Interface
+
 ↓
+
 Inventory Logic
+
 ↓
+
 File Storage
 
 **Data Files Used**
