@@ -9,16 +9,16 @@ Designed as a portfolio project to demonstrate core programming and system desig
 
 ## Features
 
-✔ Login System (Admin / Staff)
-✔ Add Product
-✔ View Inventory Table
-✔ Search Product by ID
-✔ Sell Product (with stock deduction)
-✔ Delete Product
-✔ Low Stock Alert
-✔ Sales Report
-✔ File-Based Data Storage
-✔ Menu-Driven Interface
+- Login System (Admin / Staff)
+- Add Product
+- View Inventory Table
+- Search Product by ID
+- Sell Product (with stock deduction)
+- Delete Product
+- Low Stock Alert
+- Sales Report
+- File-Based Data Storage
+- Menu-Driven Interface
 
 ---
 
