@@ -36,22 +36,17 @@ Designed as a portfolio project to demonstrate core programming and system desig
 ## System Architecture
 
 User
-
 ↓
-
 Console Interface
-
 ↓
-
 Inventory Logic
-
 ↓
-
 File Storage
 
 **Data Files Used**
 
 products.txt — stores product inventory
+
 sales.txt — stores sales transactions
 
 ---
@@ -65,7 +60,9 @@ ID Name Stock Price
 Example:
 
 101 Coke 20 15
+
 102 Bread 10 25
+
 103 Milk 15 50
 
 ---
@@ -79,6 +76,7 @@ ProductName Quantity TotalPrice
 Example:
 
 Coke 2 30
+
 Bread 1 25
 
 ---
@@ -88,6 +86,7 @@ Bread 1 25
 Admin or Staff access:
 
 Username: admin or staff
+
 Password: 1234
 
 ---
@@ -95,12 +94,19 @@ Password: 1234
 ## Example Menu
 
 1 Add Product
+
 2 View Products
+
 3 Search Product
+
 4 Sell Product
+
 5 Delete Product
+
 6 Low Stock Alert
+
 7 Sales Report
+
 8 Exit
 
 ---
