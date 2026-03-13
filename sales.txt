@@ -1,0 +1,3 @@
+Coke 2 30
+Milk 6 150
+Bread 13 130
