@@ -22,7 +22,7 @@ Designed as a portfolio project to demonstrate core programming and system desig
 
 ---
 
-## 📦 Inventory Management System — Flowchart
+## Inventory Management System — Flowchart
 
 This flowchart illustrates the complete logic of the console-based inventory system, including authentication, CRUD operations, sales processing, and reporting.
 
