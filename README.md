@@ -1,5 +1,7 @@
 # Inventory Management System (C++)
 
+![System Preview](docs/login-menu.png)
+
 A **console-based Inventory Management System** built using C++.
 This project simulates a real-world inventory system used in small stores or warehouses.
 
@@ -19,6 +21,26 @@ Designed as a portfolio project to demonstrate core programming and system desig
 - Sales Report
 - File-Based Data Storage
 - Menu-Driven Interface
+
+---
+
+# Screenshots
+
+### Login and Main Menu
+
+![Login and Menu](docs/login-menu.png)
+
+### Inventory Table
+
+![Inventory Table](docs/inventory.png)
+
+---
+
+# System Flowchart
+
+The following diagram shows the logical flow of the system including login authentication, inventory operations, and sales processing.
+
+![System Flowchart](docs/flowchart.png)
 
 ---
 
